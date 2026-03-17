@@ -9,7 +9,6 @@ This project demonstrates manual QA testing including:
 • Test scenario design
 • Test case execution
 • Bug reporting
-• Exploratory testing
 
 Application Tested:
 login functionality
