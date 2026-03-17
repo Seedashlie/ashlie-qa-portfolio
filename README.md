@@ -9,6 +9,7 @@ This project demonstrates manual QA testing including:
 • 8 Test scenarios
 • 13 Test cases
 • 3 Bugs Reported
+• 9 Requirements
 
 Application Tested:
 login functionality
