@@ -5,10 +5,10 @@ Project: Login Feature Testing
 
 This project demonstrates manual QA testing including:
 
-• Test plan creation
-• Test scenario design
-• Test case execution
-• Bug reporting
+• 1 Test plan creation
+• 8 Test scenarios
+• 13 Test cases
+• 3 Bugs Reported
 
 Application Tested:
 login functionality
