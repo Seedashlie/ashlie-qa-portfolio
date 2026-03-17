@@ -1,7 +1,7 @@
 # ashlie-qa-portfolio
 Manual QA Testing Portfolio
 
-Project: SauceDemo Login Feature Testing
+Project: Login Feature Testing
 
 This project demonstrates manual QA testing including:
 
@@ -12,4 +12,4 @@ This project demonstrates manual QA testing including:
 • Exploratory testing
 
 Application Tested:
-SauceDemo login functionality
+login functionality
